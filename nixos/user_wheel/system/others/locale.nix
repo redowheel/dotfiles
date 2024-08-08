@@ -1,8 +1,6 @@
 {
 	services.localtimed.enable = true;
 
-	location.provider = "geoclue2";
-
 	services.xserver.xkb = {
 		layout = "tr";
 		variant = "";
